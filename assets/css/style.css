@@ -1,0 +1,39 @@
+body {
+    background-color: #ffffff;
+}
+footer {
+    padding: 2rem;
+    color: #ffffff !important;
+}
+.navbar-brand-custom {
+    font-weight: 900;
+    font-size: 1.75rem;
+    color: #ffffff;
+    padding-left: 0;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 1);
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: rgba(255, 255, 255, 0.7);
+}
+.titulo-educacion {
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #1a1a1a;
+}
+.educacion-lista .list-group-item {
+    padding: 1rem 1.5rem;
+    font-size: 0.95rem;
+    color: #333333;
+    background-color: #ffffff;
+    border-color: #e0e0e0;
+}
+.educacion-lista {
+    border-radius: 6px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+.section-sobre-mi {
+    margin-top: 80px;
+    margin-bottom: 0;
+}
